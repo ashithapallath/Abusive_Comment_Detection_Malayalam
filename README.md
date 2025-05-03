@@ -6,7 +6,7 @@ This project aims to detect abusive, offensive, and non-abusive comments from te
 
 ##  Objective
 
-- **Problem:** Classify comments into **abusive**, **offensive**, or **non-abusive** categories based on content.
+- **Problem:** Classify comments into **abusive** and **non-abusive** categories based on content.
 - **Solution:** Utilize **MuRIL**, a state-of-the-art transformer model for Indian languages, to accurately classify user comments. We also implement traditional models for comparison.
 
 ---
